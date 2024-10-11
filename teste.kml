@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled project</name>
+	<gx:CascadingStyle kml:id="__managed_style_130D42070533B205B09B">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_030303315E33B205B09B">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0309F064BC33B205B09A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_030303315E33B205B09B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_130D42070533B205B09B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0AC946BD3733B1FD5AF0">
+		<name>Marcador de local sem título</name>
+		<LookAt>
+			<longitude>-3.389277150378657</longitude>
+			<latitude>17.86848599397208</latitude>
+			<altitude>269.5647808586932</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>207293.13864436</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0309F064BC33B205B09A</styleUrl>
+		<Point>
+			<coordinates>-3.6049385677486,17.92579543917113,289.9412382873635</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BCEE537A133B1FD8D64">
+		<name>Marcador de local sem título</name>
+		<LookAt>
+			<longitude>-3.389277150378657</longitude>
+			<latitude>17.86848599397208</latitude>
+			<altitude>269.5647808586932</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>207293.13864436</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0309F064BC33B205B09A</styleUrl>
+		<Point>
+			<coordinates>-3.174943536029447,17.95547576418566,300.4460800263166</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="064D1E0A0E33B1FDCAF4">
+		<name>Caminho sem título</name>
+		<LookAt>
+			<longitude>-3.389277138794703</longitude>
+			<latitude>17.86848599362678</latitude>
+			<altitude>269.5841412571082</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>207293.1149104983</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0309F064BC33B205B09A</styleUrl>
+		<LineString>
+			<coordinates>
+				-3.607696811993185,17.95289790502692,0 -3.170831146567294,17.97999654632232,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
